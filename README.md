@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=800&lines=%3E_+Initializing+system...;%3E_+Loading+Data_Engineer_Modules...;%3E_+Loading+Full_Stack_Skills...;%3E_+Access+Granted_+Welcome_+Miguel" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hola, Soy Miguel Ángel Cruz Rodríguez</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/jdecked/twemoji/master/assets/svg/1f44b.svg" width="35" align="top"/> Hola, Soy Miguel Ángel Cruz Rodríguez</h1>
 <h3 align="center">Ingeniero en Sistemas | Full Stack Developer & Data Engineer</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-### Experiencia Destacada
+### <img src="https://raw.githubusercontent.com/jdecked/twemoji/master/assets/svg/1f4bc.svg" width="24" align="top"/> Experiencia Destacada
 
 **ROMI IA | Fullstack & Data Engineer** *(Octubre 2025 – Agosto 2026)*
 - **NutriROMI:** Liderazgo en el desarrollo de una plataforma integral de expedientes clínicos para especialistas en nutrición, gestionando desde la arquitectura (DBA) hasta la implementación Fullstack.
@@ -20,7 +20,7 @@
 
 ---
 
-### Stack Tecnológico
+### <img src="https://raw.githubusercontent.com/jdecked/twemoji/master/assets/svg/1f4bb.svg" width="24" align="top"/> Stack Tecnológico
 
 <div align="center">
   
@@ -37,16 +37,16 @@
 
 ---
 
-### Habilidades Profesionales y Metodologías
+### <img src="https://raw.githubusercontent.com/jdecked/twemoji/master/assets/svg/1f9e0.svg" width="24" align="top"/> Habilidades Profesionales y Metodologías
 
-- **Competencias:** Pensamiento crítico y analítico, autonomía en la resolución de problemas, adaptabilidad frente a nuevos retos tecnológicos.
-- **Metodologías Ágiles:** Scrum, Kanban, Design Thinking.
-- **Idiomas:** Inglés intermedio (B1).
-- **Enfoque:** Ética profesional, orientación a resultados y enfoque en el usuario final.
+- <img src="https://raw.githubusercontent.com/jdecked/twemoji/master/assets/svg/1f4a1.svg" width="18" align="top"/> **Competencias:** Pensamiento crítico y analítico, autonomía en la resolución de problemas, adaptabilidad frente a nuevos retos tecnológicos.
+- <img src="https://raw.githubusercontent.com/jdecked/twemoji/master/assets/svg/1f3af.svg" width="18" align="top"/> **Metodologías Ágiles:** Scrum, Kanban, Design Thinking.
+- <img src="https://raw.githubusercontent.com/jdecked/twemoji/master/assets/svg/1f310.svg" width="18" align="top"/> **Idiomas:** Inglés intermedio (B1).
+- <img src="https://raw.githubusercontent.com/jdecked/twemoji/master/assets/svg/1f680.svg" width="18" align="top"/> **Enfoque:** Ética profesional, orientación a resultados y enfoque en el usuario final.
 
 ---
 
-### Estadísticas de GitHub
+### <img src="https://raw.githubusercontent.com/jdecked/twemoji/master/assets/svg/1f4ca.svg" width="24" align="top"/> Estadísticas de GitHub
 
 <div align="center">
   <a href="https://github.com/AndelMC">
@@ -59,7 +59,7 @@
 
 ---
 
-### Contacto
+### <img src="https://raw.githubusercontent.com/jdecked/twemoji/master/assets/svg/1f4ec.svg" width="24" align="top"/> Contacto
 
 <div align="center">
   <p>¿Tienes un proyecto en mente o una oportunidad laboral? ¡Hablemos!</p>
