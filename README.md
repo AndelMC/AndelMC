@@ -50,10 +50,16 @@
 
 <div align="center">
   <a href="https://github.com/AndelMC">
-    <img src="https://github-readme-stats.vercel.app/api?username=AndelMC&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de AndelMC" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AndelMC&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de AndelMC" height="180" />
   </a>
   <a href="https://github.com/AndelMC">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndelMC&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes principales" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndelMC&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" height="180" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/AndelMC">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndelMC&theme=tokyonight&hide_border=true" alt="Racha de commits" />
   </a>
 </div>
 
